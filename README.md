@@ -16,17 +16,27 @@ This is a desktop-based inventory management system developed using **Python** a
 |  admin2  | admin234 |
 
 ### 2. Goods Receiving Form
-- Enter product details.
-- Supplier name, quantity, unit of measurement, rate/unit, total amount, and tax.
+- Enter product details such as:
+  - Supplier Name
+  - Quantity
+  - Unit of Measurement
+  - Rate/Unit
+  - Total Amount
+  - Tax
 
 ### 3. Sales Form
-- Sell products to customers.
-- Product name, customer name, quantity, unit, rate, total, tax.
+- Record sales with:
+  - Product Name
+  - Customer Name
+  - Quantity
+  - Unit
+  - Rate
+  - Total
+  - Tax
 
 ### 4. Product Master List
-- Add product details like:
-  - Barcode
-  - SKU ID
+- Add/view product details:
+  - Barcode, SKU ID
   - Category & Subcategory
   - Product Image
   - Product Name & Description
@@ -68,11 +78,18 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+---
+
 ## Download Executable
-[click here to download the windows EXE](https://drive.google.com/file/d/1H9KBt6P8Px9euE9y02ASxobkz55rip09/view?usp=sharing)
+👉[click here to download the windows EXE](https://drive.google.com/file/d/1H9KBt6P8Px9euE9y02ASxobkz55rip09/view?usp=sharing)
+
+---
 
 ## Demo Video
+A short walkthrough video of the application's usage:
+👉()
 
+---
 
 ## Project Structure
 INVENTORYAPP/
@@ -103,13 +120,17 @@ INVENTORYAPP/
 
 └── requirements.txt
 
-### Build Executable
+---
 
-To create an .exe for windows usinh PyInstaller
+### Building the Executable
+
+To build an .exe for windows using PyInstaller
 ```bash
 pip install pyinstaller
 pyinstaller --onefile main.py
 ```
 
-### Credits
+---
+
+### Author
 Developed by Pichika Parimala Durga Srivalli as part of an assignment
