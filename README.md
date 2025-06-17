@@ -94,7 +94,9 @@ A short walkthrough video of the application's usage:
 
 ## Project Structure
 INVENTORYAPP/
+
 ├── main.py
+
 ├── setup_db.py
 
 ├── inventory.db
