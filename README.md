@@ -88,19 +88,24 @@ python main.py
 ## Screenshots
 
 ### Login Screen
+![Login Form](https://github.com/user-attachments/assets/ef621216-377d-4277-96d2-9176c0e0a999)
 
 ### Product Form
+![Product Form](https://github.com/user-attachments/assets/4723307a-8841-4217-b326-04ff08ad09e3)
 
 ### Goods Receiving Form
+![Goods Receiving Form](https://github.com/user-attachments/assets/9eb58040-ef25-44af-a791-0e4af2ecd3d5)
 
 ### Sales Form
+![Sales Form](https://github.com/user-attachments/assets/ff37a79c-6d95-4455-a09f-85917b6e70fa)
 
 ### Products List 
+![Products List](https://github.com/user-attachments/assets/3798cdc7-c25e-436b-8570-147c2bd7887a)
 
 ## Demo Video
 A short walkthrough video of the application's usage:
 
-👉()
+👉 [Click Here](https://drive.google.com/file/d/13ZwJ0PG0dWXeS6VAmAk3jnaHayoUAqCI/view?usp=sharing)
 
 ---
 
