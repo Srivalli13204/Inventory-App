@@ -81,21 +81,20 @@ python main.py
 ---
 
 ## Download Executable
-👉[click here to download the windows EXE](https://drive.google.com/file/d/1H9KBt6P8Px9euE9y02ASxobkz55rip09/view?usp=sharing)
+👉 [Click here to download the windows EXE](https://drive.google.com/file/d/1H9KBt6P8Px9euE9y02ASxobkz55rip09/view?usp=sharing)
 
 ---
 
 ## Demo Video
 A short walkthrough video of the application's usage:
+
 👉()
 
 ---
 
 ## Project Structure
 INVENTORYAPP/
-
 ├── main.py
-
 ├── setup_db.py
 
 ├── inventory.db
