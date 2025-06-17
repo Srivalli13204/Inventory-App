@@ -15,8 +15,6 @@ This is a desktop-based inventory management system developed using **Python** a
 |  admin1  | admin123 |
 |  admin2  | admin234 |
 
----
-
 ### 2. Goods Receiving Form
 - Enter product details.
 - Supplier name, quantity, unit of measurement, rate/unit, total amount, and tax.
