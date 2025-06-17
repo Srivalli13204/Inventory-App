@@ -85,6 +85,18 @@ python main.py
 
 ---
 
+## Screenshots
+
+### Login Screen
+
+### Product Form
+
+### Goods Receiving Form
+
+### Sales Form
+
+### Products List 
+
 ## Demo Video
 A short walkthrough video of the application's usage:
 
