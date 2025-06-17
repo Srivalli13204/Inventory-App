@@ -68,6 +68,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## Download Executable
+[click here to download the windows EXE](https://drive.google.com/file/d/1H9KBt6P8Px9euE9y02ASxobkz55rip09/view?usp=sharing)
 
 ## Demo Video
 
